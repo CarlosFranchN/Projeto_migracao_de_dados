@@ -28,11 +28,4 @@ O projeto foi dividido nas seguintes etapas:
 
 ---
 
-## Consulta de Validação Final
 
-A consulta abaixo junta as 4 tabelas para reconstruir a visão original dos dados, provando que a normalização foi bem-sucedida.
-
-```sql
--- Cole aqui sua consulta de validação final --
-SELECT ...
-```
