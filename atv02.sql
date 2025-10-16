@@ -1,3 +1,4 @@
+\copy atv02.vendas_outubro_stage FROM 'C:\dados_migracao\vendas_outubro.csv' WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 CREATE TABLE IF NOT EXISTS atv02.usuarios (
     id SERIAL PRIMARY KEY,
@@ -107,3 +108,4 @@ ORDER BY
 
 
 DROP TABLE atv02.vendas_outubro_stage;
+
