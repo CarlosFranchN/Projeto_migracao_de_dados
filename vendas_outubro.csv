@@ -1,0 +1,5 @@
+id_pedido,data_pedido,cpf_cliente,nome_cliente,email_cliente,sku_produto,quantidade,valor_unitario_brl
+ORD-1001,2025-10-07 14:30:15,111.222.333-44,Ana Viana,ana.v@email.com,MON-24-DELL,1,950.75
+ORD-1001,2025-10-07 14:30:15,111.222.333-44,Ana Viana,ana.v@email.com,TEC-MEC-RED,1,320.15
+ORD-1002,2025-10-07 15:02:40,555.666.777-88,Carlos Silva,carlos.silva@server.com,HD-1TB-SGT,2,350.50
+ORD-1003,2025-10-07 16:10:00,999.888.777-66,Mariana Costa,mari.costa@provider.net,MOU-LOGI-G502,1,289.99
